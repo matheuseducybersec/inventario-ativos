@@ -11,3 +11,13 @@ Permitir o cadastro e gerenciamento dos ativos da organização.
 - Cadastro de ativos
 - Consulta de ativos
 - Controle de patrimônio
+
+## Cadastro de Ativos
+
+A funcionalidade de cadastro permitirá registrar informações dos ativos, como:
+
+- Nome do ativo
+- Número de patrimônio
+- Categoria
+- Localização
+- Responsável
