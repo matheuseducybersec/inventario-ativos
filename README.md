@@ -9,7 +9,7 @@ Permitir o cadastro e gerenciamento dos ativos da organização.
 ## Funcionalidades
 
 - Cadastro de ativos
-- Consulta de ativos
+- Consulta de ativos por patrimônio
 - Controle de patrimônio
 
 ## Cadastro de Ativos
