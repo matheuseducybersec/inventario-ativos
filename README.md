@@ -21,3 +21,17 @@ A funcionalidade de cadastro permitirá registrar informações dos ativos, como
 - Categoria
 - Localização
 - Responsável
+
+## Cadastro de Ativos
+
+O sistema permite cadastrar e gerenciar os ativos da organização.
+
+### Informações do ativo
+
+- Nome do ativo
+- Número do patrimônio
+- Categoria
+- Localização
+- Responsável
+- Status
+
