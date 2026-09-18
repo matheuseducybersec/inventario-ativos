@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cadastro de Ativos</title>
+</head>
+<body>
+    <h1>Cadastro de Ativos</h1>
+
+    <form>
+        <label for="nome">Nome do ativo:</label>
+        <input type="text" id="nome" name="nome" required>
+
+        <br><br>
+
+        <label for="patrimonio">Número do patrimônio:</label>
+        <input type="text" id="patrimonio" name="patrimonio" required>
+
+        <br><br>
+
+        <label for="categoria">Categoria:</label>
+        <select id="categoria" name="categoria">
+            <option value="computador">Computador</option>
+            <option value="monitor">Monitor</option>
+            <option value="notebook">Notebook</option>
+            <option value="outro">Outro</option>
+        </select>
+
+        <br><br>
+
+        <label for="localizacao">Localização:</label>
+        <input type="text" id="localizacao" name="localizacao" required>
+
+        <br><br>
+
+        <label for="responsavel">Responsável:</label>
+        <input type="text" id="responsavel" name="responsavel">
+
+        <br><br>
+
+        <button type="submit">Cadastrar ativo</button>
+    </form>
+</body>
+</html>
