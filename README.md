@@ -35,3 +35,17 @@ O sistema permite cadastrar e gerenciar os ativos da organização.
 - Responsável
 - Status
 
+## Cadastro de Ativos
+
+O projeto possui um formulário para cadastro de ativos, disponível no arquivo
+`cadastro.html`.
+
+O formulário permite informar:
+
+- Nome do ativo;
+- Número do patrimônio;
+- Categoria;
+- Localização;
+- Responsável.
+
+Para visualizar o formulário, abra o arquivo `cadastro.html` em um navegador.
